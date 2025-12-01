@@ -1,4 +1,18 @@
+h1{
+  font-size:3.5 em;
+    color:#A5B4FC;
+  font-family:Montserrat
+}
+
+p{
+  font-size:1.1 em;
+  font-family:Manrope
+}
+
 a {
+   font-size:1 em;
+  font-family:Manrope
+}
   color: black;
 }
 
